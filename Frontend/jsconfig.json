@@ -1,0 +1,16 @@
+{
+    "complierOptions":{
+        "checkJs": true,
+        "jsx": "react-jsx",
+        "baseUrl" :"src",
+        "resolveJsonModule": true
+
+    }, 
+    "include": [
+        "src"
+    ], 
+    "exclude": [
+        "node_module",
+        "build"
+    ]
+}
