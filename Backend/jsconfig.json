@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
-    "moduleResolution": "nodenext",
+    "module": "NodeNext",  // ✅ Required when using "moduleResolution": "NodeNext"
+    "moduleResolution": "NodeNext",
     "target": "ES2021",
     "checkJs": true,
     "allowJs": true
